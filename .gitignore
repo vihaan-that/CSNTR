@@ -1,0 +1,88 @@
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Ignore Git internal files
+.git/
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore NVIDIA and Torch packages
+torch/
+nvidia/
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env/
+
+# Pip and package managers
+pip-log.txt
+pip-delete-this-directory.txt
+*.pyo
+*.lock
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Pyre type checker
+.pyre/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.mo
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# mypy
+.mypy_cache/
+
+# VSCode
+.vscode/
+
+# Mac OS
+.DS_Store
+
+# Other metadata
+.idea/
